@@ -1,6 +1,4 @@
 ## Service & Related Professional Activities
 
-* Gateway Project
-* Boy Scouts of America
-* Anti-fascists in Archæology
-* University of Chicago Alumni Network
+* Assistant in MySQL lab in University of Patras
+* Internship as Front End Developer at Insybio
